@@ -20,3 +20,7 @@ git clone https://github.com/Xcatoos/pixlpin-design-skill ~/.claude/skills/pixlp
 - `SKILL.md`: the workflow
 - `scripts/extract-tokens.js`: console snippet that returns a site's top design tokens as JSON
 - `AGENTS.md`: pointer for agents that read it automatically
+
+## Credits
+
+Co-authored with Claude (Anthropic).
