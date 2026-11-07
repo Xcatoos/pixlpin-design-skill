@@ -4,4 +4,6 @@ Claude Code skill. Pulls real design references from pixlpin.com, measures exact
 
 ## Install
 
-Copy the `pixlpin-design` folder to `~/.claude/skills/`.
+```bash
+git clone https://github.com/Xcatoos/pixlpin-design-skill ~/.claude/skills/pixlpin-design
+```
